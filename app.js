@@ -29,3 +29,18 @@ function almacenarNombres () {
         listaAmigos.appendChild(amigoAgregado);
     }
 }
+
+function sortearAmigo () {
+    if (amigos == '') {
+        alert ('No se ha ingresado ningún nombre')
+    } else {
+        let amigoSorteado = Math.floor(Math.random() * amigos.length);
+        mostrarAmigoSorteado.innerHTML= `El amigo secreto sorteado es: ${amigos[amigoSorteado]}`;
+        finalizarJuego()
+    }
+}
+
+function finalizarJuego () {
+    listaAmigos.innerHTML = '';
+    amigos = [];
+}
