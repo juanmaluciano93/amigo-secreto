@@ -22,6 +22,12 @@ Este proyecto es una aplicación web que realiza un sorteo de nombres de amigos.
 4. Hacer clic en el botón "Sortear amigo" para elegir un nombre al azar.
 5. El nombre del amigo secreto se mostrará en pantalla.
 
+## Paso a Paso
+![Paso 1](assets/ejecutar_programa_paso_1.png)
+![Paso 2](assets/ejecutar_programa_paso_2.png)
+![Paso 3](assets/ejecutar_programa_paso_3.png)
+![Paso 4](assets/ejecutar_programa_paso_4.png)
+
 ## Estructura del proyecto
 📁 AmigoSecreto │── 📄 index.html (Estructura principal del proyecto) │── 📄 app.js (Lógica del sorteo y manipulación del DOM) │── 📄 style.css (Para mejorar la apariencia de la página) │── 📁 assets (Imágenes y recursos gráficos)
 
