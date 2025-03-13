@@ -23,7 +23,7 @@ Este proyecto es una aplicación web que realiza un sorteo de nombres de amigos.
 5. El nombre del amigo secreto se mostrará en pantalla.
 
 ## Estructura del proyecto
-📁 AmigoSecreto │── 📄 index.html (Estructura principal del proyecto) │── 📄 app.js (Lógica del sorteo y manipulación del DOM) │── 📄 style.css (Opcional, para mejorar la apariencia) │── 📁 assets (Imágenes y recursos gráficos)
+📁 AmigoSecreto │── 📄 index.html (Estructura principal del proyecto) │── 📄 app.js (Lógica del sorteo y manipulación del DOM) │── 📄 style.css (Para mejorar la apariencia de la página) │── 📁 assets (Imágenes y recursos gráficos)
 
 ## Autor
 Desarrollado por Juan Manuel Luciano 💻🚀
